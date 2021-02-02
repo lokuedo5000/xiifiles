@@ -6,7 +6,17 @@
     "Url": "https://lokuedo5000.github.io/xiifiles/coffeeweb.data",
     "Games": "https://lokuedo5000.github.io/xiifiles/Games.json",
     "Dcp": "en CoffeeWeb encontraras juegos portables no solo juegos portable podras encontrar juegos instalables.",
-    "Active": "true",
+    "Active": "false",
+    "Version": "1.0"
+  },
+  {
+    "id": "eea8ceb1-817d-48e4-97ad-9cfccadcd6th",
+    "Title": "CoffeeWeb 2",
+    "Img": "https://i.imgur.com/nwOovwm.png",
+    "Url": "https://lokuedo5000.github.io/xiifiles/coffeeweb.data",
+    "Games": "https://lokuedo5000.github.io/xiifiles/Games.json",
+    "Dcp": "en CoffeeWeb encontraras juegos portables no solo juegos portable podras encontrar juegos instalables.",
+    "Active": "false",
     "Version": "1.0"
   }
 ]
